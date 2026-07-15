@@ -32,7 +32,9 @@ With a strong passion for **Data Analytics**, I am continuously expanding my ski
 
 ### 🗄️ Databases
 - SQL Server
-
+- Databricks
+- mySQL
+  
 ### 💻 Programming
 - SQL
 - Python *(Learning)*
