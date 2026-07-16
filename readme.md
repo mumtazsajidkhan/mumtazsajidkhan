@@ -76,9 +76,9 @@ I am actively building my expertise in **Data Analytics** and **Business Intelli
 ---
 
 ## 📫 Connect With Me
-
+- 🌟 Resume:   *(https://flowcv.com/resume/78jroq4lb46t)*
 - 💼 LinkedIn: *(https://www.linkedin.com/in/mumtaz-sajid-594054238/)*
-- 📧 Email: *(mumtazsajidofficial@gmial.com*
+- 📧 Email:    *(mumtazsajidofficial@gmial.com)*
 
 ---
 
