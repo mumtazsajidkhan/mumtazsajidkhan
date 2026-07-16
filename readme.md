@@ -6,7 +6,7 @@ My name is **Mumtaz Sajid Khan**, and I am passionate about transforming raw dat
 
 I joined **National Aquaculture Group** in **2022** as a **Coordinator**. Currently, I work as a **Team Lead – Stocking & Juvenile Transfer** in the **Growout Operations – Shrimp Business Unit**, where I oversee operational activities, coordinate cross-functional teams, and ensure efficient juvenile transfer and stocking operations.
 
-I hold a **Bachelor's degree in Computer Science** from the **University of Kotli, Azad Jammu & Kashmir**.
+I hold a **Bachelor's degree in Computer Science** from the **University of Kotli, Azad Jammu & Kashmir, Pakistan**.
 
 With a strong passion for **Data Analytics**, I am continuously expanding my skills in **SQL, Power BI, Excel, Data Modeling, ETL, and Business Intelligence**. My goal is to bridge operational expertise with analytical thinking to deliver actionable insights and solve real-world business challenges.
 
