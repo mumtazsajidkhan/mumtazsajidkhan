@@ -84,7 +84,7 @@ I am actively building my expertise in **Data Analytics** and **Business Intelli
 
 ## 🌍 Beyond Data
 
-When I'm not working with data, I enjoy:
+When I'm not working, I enjoy:
 
 - 🦐 Learning about modern aquaculture technologies
 - 📚 Exploring new data analytics techniques
